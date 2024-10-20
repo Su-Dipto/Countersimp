@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+#count{
+    color: white;
+    
+    font-size: 100px;
+    
+}
+.button{
+    background-color: green;    
+    margin: 50px;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 120px;
+}
+.button:active{
+    background-color: rgb(111, 255, 111);
+}
+
+
+#control{
+    display: flex;
+    justify-content: center;}
+#H{
+    display: block;
+    text-align: center;
+}
